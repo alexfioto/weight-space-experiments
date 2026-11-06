@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+
+# large artifacts
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+*.npy
+*.npz
+checkpoints/
+activations/
+wandb/
